@@ -1,0 +1,19 @@
+C:\Users\sirin\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\sirin\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\sirin\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\sirin\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\sirin\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\sirin\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\sirin\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\sirin\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\sirin\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\sirin\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\İrem Bahar Koç\Desktop\201813709033_mert_cikendin\mert_cikendin_2\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\İrem Bahar Koç\Desktop\201813709033_mert_cikendin\mert_cikendin_2\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\İrem Bahar Koç\Desktop\201813709033_mert_cikendin\mert_cikendin_2\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\İrem Bahar Koç\Desktop\201813709033_mert_cikendin\mert_cikendin_2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\İrem Bahar Koç\Desktop\201813709033_mert_cikendin\mert_cikendin_2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\İrem Bahar Koç\Desktop\201813709033_mert_cikendin\mert_cikendin_2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\İrem Bahar Koç\Desktop\201813709033_mert_cikendin\mert_cikendin_2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\İrem Bahar Koç\Desktop\201813709033_mert_cikendin\mert_cikendin_2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\İrem Bahar Koç\Desktop\201813709033_mert_cikendin\mert_cikendin_2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
